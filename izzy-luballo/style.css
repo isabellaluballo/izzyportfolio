@@ -17,7 +17,7 @@
 	--p-font: 1.1rem;
 }
 body{
-	background: rgb(241, 225, 203);
+	background: white;
 	color: var(--text-color);
 }
 header{
